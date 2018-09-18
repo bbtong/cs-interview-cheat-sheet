@@ -1,7 +1,13 @@
 ## Studying for a Tech Interview Sucks, so Here's a Cheat Sheet to Help
 Hiya, this is my revision for this technical interview cheat sheet.  Notably, it includes actually correct runtime answers and distinguishes between time-complexity and space-complexity.
 
-To-do: `Change O to Omega / Theta distinction, review all runtime values for accuracy, add AR / VR / Blockchain interview topics`
+To-do:
+```
+- Change O to Omega / Theta distinction
+- Review all runtime values for accuracy
+- Add AR / VR / Blockchain interview topics
+- Add A*, search algorithms
+```
 
 This list is meant to be a both a quick guide and reference for further research into these topics.  It's basically a summary of that CS course that you never went to lecture for, so there's no way it can cover everything in depth.  Original source available as a [gist](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b) on Github for everyone to edit and add to.
 
